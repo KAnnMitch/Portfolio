@@ -1,0 +1,159 @@
+
+#Headerdescrip1 { 
+   margin-top: -1.5%;
+   margin-left: 2%;
+   font-family:'Fjalla One', sans-serif;
+   
+
+}
+.categories { 
+    margin-left: 1.9%;
+}
+
+#Headerdescrip2 { 
+        margin-top: 1%;
+        margin-bottom: -9%;
+        margin-left: 10%;
+        font-family:  'MuseoModerno', cursive;
+        font-weight: 900; 
+        font-size: 30pt;
+        color: cornflowerblue;
+}
+#Headerdescrip3 {
+    margin-top: 9%;
+        margin-bottom: --8%;
+        margin-left: 10%;
+        font-family:'MuseoModerno', cursive;
+        font-weight: 900; 
+        font-size: 30pt;
+        color: cornflowerblue;
+}
+
+.imagemasthead{
+    margin-top:8%;
+}
+.navbar { 
+    margin-left: 65% ;
+    margin-top:-10% ;
+    font-family:'Fjalla One', sans-serif; 
+    font-size: 20px;
+    font-weight:100;
+    color: rgb(1, 6, 17);
+    
+    }
+
+    .navbar3 { 
+        margin-left: 65% ;
+        margin-bottom:-8% ;
+        font-family:'Fjalla One', sans-serif; 
+        font-size: 20px;
+        font-weight:100;
+        color: rgb(1, 6, 17);
+        
+        }
+    
+
+.inlinetext1{ 
+margin-left: 14.98%;
+margin-top:-12%;
+margin-bottom: 10%;
+font-family:'MuseoModerno', cursive; 
+font-size: 35pt;
+color: cornflowerblue;
+        }
+
+
+    .inlinetext2{
+        margin-left:14% ;
+        margin-top:-12% ;
+        margin-bottom: 40%;
+        font-family:'MuseoModerno', cursive; 
+        font-size: 30pt;
+        color: cornflowerblue;
+    }   
+
+#bottomtext{ 
+    margin-top: 5%;
+    margin-left: 45%;
+    font-family: 'Fjalla One', sans-serif; 
+}
+
+#bottomtext2{ 
+    margin-top:25% ;
+    margin-left: 46%;
+    margin-bottom: 5%;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+  .bottommenu{ 
+      margin-left: 41%;
+      }
+
+      .bottommenu2{
+          margin-top: -5%;
+        margin-left: 41%;
+      }
+
+
+#bioimage { 
+    margin-left: 55%;
+}
+.categorycards{ 
+
+    margin-top: 9%;
+    margin-left: 2%;
+
+
+}
+.abouthead{
+
+    margin-left: 40%;
+    margin-top: 10% ;
+    font-family: 'Fjalla One', sans-serif;
+    font-size:35pt;
+}
+
+.projecthead{ 
+    margin-left: 42%;
+    margin-top: 10%;
+    margin-bottom: -8% ;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 105pt;
+}
+
+.contacthead{ 
+    padding-top: 2%;
+    margin-left: 40%;
+    margin-bottom: 35%;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 40pt;  
+}
+.thumbnails{
+margin-left: 15%;
+margin-top: -35%;
+font-family:'Fjalla One', sans-serif; 
+font-size: 25pt ;
+}
+
+ .container{ 
+    margin-top: -30%;
+    margin-left: 38%;
+    margin-bottom: 15%;
+    font-family:'Fjalla One', sans-serif; 
+    font-size: 25pt;
+} 
+ .p1{ 
+   font-family:  'MuseoModerno', cursive; 
+   font-size: 35pt ;
+   margin-left: 21%;
+   color:cornflowerblue
+ }
+.textbox{
+    margin-top: -40%;
+    margin-bottom: 19%;
+    margin-left: 2%;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 13pt;
+
+}
+
