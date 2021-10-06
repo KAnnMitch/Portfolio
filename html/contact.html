@@ -16,7 +16,7 @@
 
 <body>
     <div class="resizelogoimage">
-        <img src="Images/IMG_3304.jpeg" style="width: 14vw; min-width: 75px;" />
+        <img src="../Images/IMG_3304.jpeg" style="width: 14vw; min-width: 75px;" />
     </div>
 
     <div id="Headerdescrip1">
@@ -56,37 +56,54 @@
         <div class="row">
             <div class="col-md-2">
                 <p>Email</p>
-                <img src="Images/email-64.gif" alt="email-64" style="width: 8vw; min-width: 20px;" />
+                <img src="../Images/email-64.gif" alt="email-64" style="width: 8vw; min-width: 20px;" />
+
+                
 </div>
                 <div class="col-md-2">
                     <p>LinkedIn</p>
-                    <img src="Images/linkedin-3-64.png" alt="linkedin" style="width: 8vw; min-width: 20px;" />   
+                   <a href="https://www.linkedin.com/in/keisha-mitchell-6323a2150/"><img src="../Images/linkedin-3-64.png" alt="linkedin" style="width: 8vw; min-width: 20px;" /></a>    
                 </div>
                 <div class="col-md">
                  </div>
             </div>
         </div>
 
-        <div id="bottomtext2">
+<div class="emailform">
+        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+            <fieldset id="fs-frm-inputs">
+              <label for="full-name">Full Name</label>
+              <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+              <label for="email-address">Email Address</label>
+              <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+              <label for="message">Message</label>
+              <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+              <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+            </fieldset>
+            <input type="submit" value="Submit">
+          </form>
+        </div>
+
+    <div id="bottomtext2">
             <h4>Follow Me</h4>
         </div>
 
     </div>
 
 
-        <div class="bottommenu2">
-            <div class="row">
-                <div class="col-md-1">
-                    <img src="Images/twitter-48.png" alt="twitter" style="width: 5vw; min-width: 30px;" />
-                </div>
-                <div class="col-md-1">
-                    <img src="Images/IMG_3316.jpg" alt="github" style="width: 5vw; min-width: 30px;" />
-                </div>
-                <div class="col-md-1">
-                    <img src="Images/instagram-64.png" alt="insta" style="width: 5vw; min-width: 30px;" />
-                </div>
+    <div class="bottommenu">
+        <div class="row">
+            <div class="col-md-1">
+              <a href="https://twitter.com/themfneditor"><img src="../Images/twitter-48.png" alt="twitter" style="width: 5vw; min-width: 30px;" /></a> 
+            </div>
+            <div class="col-md-1">
+            <a href="https://github.com/KAnnMitch"><img src="../Images/IMG_3316.jpg" alt="github" style="width: 5vw; min-width: 30px;" /></a>
+           > </div>
+            <div class="col-md-1">
+               <a href="https://www.instagram.com/themfneditor/?hl=en"><img src="../Images/instagram-64.png" alt="insta" style="width: 5vw; min-width: 30px;" /></a>
             </div>
         </div>
+    </div>
 
 
 
